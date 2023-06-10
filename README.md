@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zayzay663
-- 👀 I’m interested in all thigns stats and data related, cubing, juggling, league, and poker.
-- 🌱 I’m currently learning Stats and Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in using stats to analyze data realted to cubing, poker, and more.
+- 🌱 I’m currently learning Stats and Data Science at UCSB
+
 
 <!---
 zayzay663/zayzay663 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
