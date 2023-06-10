@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zayzay663
-- 👀 I’m interested in using stats to analyze data realted to cubing, poker, and more.
+- ☀️ I'm currently a data analyst for a solar company
+- 👀 I’m interested in using stats to analyze data related to cubing, poker, and more
 - 🌱 I’m currently learning Stats and Data Science at UCSB
 
 
